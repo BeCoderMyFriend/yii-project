@@ -86,3 +86,5 @@ mysql_close($con);
 
 Thats it, by following these simple steps you should be able to download the LAMP stack successfully.
 
+After that just follow the instructions inside the basic folder from the README.md file to download Yii-basic template and then view my project.
+
